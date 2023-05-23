@@ -10,7 +10,7 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 
 Lead Conversion Process - Demonstrated as a funnel
 
-
+![inbox_3515295_a031932efdd103c26332798adad58047_XNote_201901081613670](https://github.com/Piyush-stack/Lead-Scoring-Assingment-/assets/57370986/fa79b66b-f46a-4373-be41-8604554019ee)
 
 As you can see, there are a lot of leads generated in the initial stage (top) but only a few of them come out as paying customers from the bottom. In the middle stage, you need to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating etc. ) in order to get a higher lead conversion.
 
